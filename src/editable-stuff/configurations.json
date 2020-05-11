@@ -2,47 +2,35 @@
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-  "FirstName": "Hashir",
-  "MiddleName": "",
-  "LastName": "Shoaib",
-  "devDesc": "| Engineer | Programmer | Web Developer | Photographer | Athlete | Artist ",
+  "FirstName": "Alexis",
+  "MiddleName": "K",
+  "LastName": "Grisham",
+  "devDesc": "| Engineer | Programmer | Mom | Philanthropist ",
   "icons": [
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/hashirshoaeb",
+      "url": "https://github.com/Alexiskjg16",
       "style": "socialicons"
     },
-    {
-      "id": 1,
-      "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashir.shoaeb",
-      "style": "socialicons"
-    },
-    {
-      "id": 2,
-      "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashirshoaeb/",
-      "style": "socialicons"
-    },
+
     {
       "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/hashir-shoaeb/",
+      "url": "https://www.linkedin.com/in/alexiskjgrisham/",
       "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
   "showInstaProfilePic": true,
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "hashirshoaeb",
+  "instaUsername": "alexiskjg16",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "A final year Computer Engineer from NUST CEME, Pakistan with 3+ years experience in web development and passion to teach machines think. I’m currently the Vice President of student body at Emerging Technologies Research Lab(ETL) and a former Intern at RiseTech.",
+  "aboutDescription": "Full stack developer ",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "hashirshoaeb",
+  "gitHubUsername": "alexiskjg16",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
   "projectsLength": 4,
-  "showNavigationbar": true,
-  "showBlog": false
+  "showNavigationbar": true
 }
