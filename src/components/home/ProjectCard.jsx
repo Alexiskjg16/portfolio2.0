@@ -106,7 +106,7 @@ const Language = ({ value }) => {
   }, [handleRequest]);
 
   const array = [];
-  let total_count = 0;
+  let total_count = 4;
   for (let index in data) {
     array.push(index);
     total_count += data[index];
