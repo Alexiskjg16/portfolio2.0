@@ -11,13 +11,19 @@ import AboutMe from "./components/home/AboutMe";
 import Project from "./components/home/Project";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
+import Donate from "./components/home/Donate";
+import News from "./components/home/News";
 
 const Home = () => {
   return (
     <Fragment>
       <MainBody />
       <AboutMe />
+      <Donate />
+      <News /> 
       <Project />
+    
+
     </Fragment>
   );
 };

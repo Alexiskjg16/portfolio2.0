@@ -5,7 +5,6 @@ const Footer = () => {
 
   return (
     <footer style={bgStyle} className="mt-auto py-3 text-center">
-      {/* <strong> &copy; 2019 </strong>*/}
       <i className="fas fa-code"></i> with <i className="fas fa-heart"></i> by{" "}
         Alexis Grisham
     {" "}

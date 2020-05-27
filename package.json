@@ -1,7 +1,7 @@
 {
   "name": "developers-portfolio",
-  "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "http://alexiskjg.com",
+  "description": "",
+  "homepage": "",
   "version": "0.1.0",
   "private": true,
   "author": {
@@ -47,5 +47,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "file-loader": "^6.0.0",
+    "url-loader": "^4.1.0"
   }
 }

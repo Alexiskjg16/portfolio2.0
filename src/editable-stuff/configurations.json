@@ -2,10 +2,10 @@
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
   "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-  "FirstName": "Alexis",
-  "MiddleName": "K",
-  "LastName": "Grisham",
-  "devDesc": "| Engineer | Programmer | Mom | Philanthropist ",
+  "FirstName": "Sunshine State Hack",
+  "MiddleName": "",
+  "LastName": "",
+  "devDesc": "| June 18-21, 2020 ",
   "icons": [
     {
       "id": 0,
@@ -21,16 +21,17 @@
       "style": "socialicons"
     }
   ],
-  "aboutHeading": "About Me",
-  "showInstaProfilePic": true,
-  "instaLink": "https://www.instagram.com/",
-  "instaUsername": "alexiskjg16",
+  "aboutHeading": "About Us",
+  "newsHeading": "News",
+  "showInstaProfilePic": false,
+  "instaLink": "",
+  "instaUsername": "",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "Full stack developer, with experience in Angular, C#, Python, React, and more! Driven by challenge and desire to learn, I'm always looking for a new opportunity. Feel free to reach out and hear more about what I have been doing!",
-  "projectHeading": "Recent Projects",
-  "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "alexiskjg16",
-  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "aboutDescription": "Want to get involved in the Sunshine State hackathon to help fight Covid-19? Help us find solutions to everything from how to stop the spread of the virus to how to deal with the socio-economic crisis that is impacting the workplace, healthcare, food security, government services, supply chain, logistics, and the environment across the State of Florida. Sign up here to win prizes and solve our biggest challenge!",
+  "projectHeading": "Team",
+  "gitHubLink": "",
+  "gitHubUsername": "",
+  "gitHubQuerry": "",
   "projectsLength": 4,
   "showNavigationbar": true
 }

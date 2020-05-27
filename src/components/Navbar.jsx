@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Pdf from "../editable-stuff/resume.pdf";
-import { FirstName } from "../editable-stuff/configurations.json";
+import { covidhack } from "./covid19hackathon.jpeg"
 
 const Navbar = (props) => {
   const [isTop, setIsTop] = useState(true);
@@ -20,7 +19,7 @@ const Navbar = (props) => {
       } `}
     >
       <a className="navbar-brand" href={process.env.PUBLIC_URL + "/#home"}>
-        {`<${FirstName} />`}
+        <img src={require("./covid19hackathon.jpeg")} alt="Covid19 Hackathon" style={{height: 90}}/>
       </a>
       <button
         className="navbar-toggler"
@@ -36,32 +35,29 @@ const Navbar = (props) => {
 
       <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
         <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
-      
           <li className="nav-item">
-            <a
-              className="nav-link lead"
-              href={process.env.PUBLIC_URL + "/#projects"}
-            >
-              Projects
+          <a className="nav-link lead"
+              href={process.env.PUBLIC_URL + "/#donate"}>
+              Donate
             </a>
           </li>
           <li className="nav-item">
             <a
               className="nav-link lead"
-              href={Pdf}
-              target="_blank"
-              rel="noreferrer noopener"
-            >
-              <b>Resume</b>
-            </a>
-          </li>
-          <li className="nav-item">
-            <a
-              className="nav-link lead"
-              href={process.env.PUBLIC_URL + "/#aboutme"}
-            >
+              href={process.env.PUBLIC_URL + "/#aboutme"} >
               <b>About</b>
             </a>
+          </li>
+          <li className="nav-item">
+            <a
+              className="nav-link lead"
+              href={process.env.PUBLIC_URL + "/#news"} >
+              <b>News</b>
+            </a>
+          </li>
+          <li className="nav-item">
+            <a className="nav-link lead"
+              href={process.env.PUBLIC_URL + "/#projects"}> Team </a>
           </li>
         </ul>
       </div>
