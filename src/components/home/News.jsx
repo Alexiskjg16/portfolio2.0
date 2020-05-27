@@ -7,7 +7,7 @@ const News = () => {
 
 
   return (
-    <div id="news" className="jumbotron jumbotron-fluid m-0">
+    <div id="news">
       <div className="container container-fluid p-5">
       
             <h1 className="display-4 mb-5 text-center">{newsHeading}</h1>

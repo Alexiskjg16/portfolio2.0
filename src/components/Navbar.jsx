@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { covidhack } from "./covid19hackathon.jpeg"
 
 const Navbar = (props) => {
   const [isTop, setIsTop] = useState(true);

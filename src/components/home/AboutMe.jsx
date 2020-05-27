@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from "react";
-import axios from "axios";
+import React from "react";
 import {
   aboutHeading,
   aboutDescription,
@@ -7,7 +6,7 @@ import {
 
 const AboutMe = () => {
   return (
-    <div id="aboutme" className="jumbotron jumbotron-fluid m-0">
+    <div id="aboutme">
       <div className="container container-fluid p-5">
         <div className="row">
           <div>
