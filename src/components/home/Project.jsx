@@ -188,8 +188,8 @@ const Project = () => {
  <div className="col-md-6">
       <div className="card shadow-lg p-3 mb-5 bg-white rounded">
         <div className="card-body">
-          <h5 className="card-title"> Karen Vaugn Kerns </h5>
-          <p className="card-text"> PRN, CNM, FNP-C, MSN </p>
+          <h5 className="card-title"> Karen Vaugn-Kerns </h5>
+          <p className="card-text"> MSN, APRN, CNM, FNP-C </p>
           <p className="card-text"> Advisor </p>
         </div>
       </div>
