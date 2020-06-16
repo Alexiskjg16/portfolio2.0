@@ -5,10 +5,9 @@ const Footer = () => {
 
   return (
     <footer style={bgStyle} className="mt-auto py-3 text-center">
-      <i className="fas fa-code"></i> with <i className="fas fa-heart"></i> by{" "}
-        Alexis Grisham
-    {" "}
-      using <i className="fab fa-react"></i>
+      <i className="fas fa-code"></i> with <i className="fas fa-heart"></i> by
+       <a href="https://github.com/Alexiskjg16"> Alexis Grisham </a>
+      using <a href="https://reactjs.org/"><i className="fab fa-react"></i></a>
 
     </footer>
   );

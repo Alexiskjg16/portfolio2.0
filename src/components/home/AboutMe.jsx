@@ -42,8 +42,9 @@ const AboutMe = () => {
             </h4>
           </div>
           <div className="lead text-center">
-            <h4>Hackathon Dates: June 18-21, 2020</h4>
-            <h4>Virtual: Via Zoom</h4>
+            <h4>Hackathon Dates: August 19-21, 2020</h4>
+            <h4>Virtual: Via <a href="https://zoom.us/">Zoom</a></h4>
+            <h4> Sign Up <a href="https://sunshine-state-hackathon.devpost.com/">Here</a></h4>
             </div>
           </div>
         </div>
