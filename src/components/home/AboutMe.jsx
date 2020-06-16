@@ -15,7 +15,7 @@ const AboutMe = () => {
           </div>
           <div>
             <div className="lead text-center">
-            <iframe
+            <iframe title="youtube"
               width="420"
               height="315" 
               src="https://www.youtube.com/embed/watch?v=tHbSPvHxm_E"

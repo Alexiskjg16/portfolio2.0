@@ -236,7 +236,7 @@ const Project = () => {
                   <h5 className="card-title"> Simi Ranajee </h5>
                   <p className="card-text"> Healthcare SME </p>
                   <p className="card-text"> Advisor and Second Keynote </p>
-                  <p><a href="https://www.linkedin.com/in/simi-ranajee-phd-mba-7a42503/"></a></p>
+                  <p><a href="https://www.linkedin.com/in/simi-ranajee-phd-mba-7a42503/"> LinkedIn</a></p>
                 </div>
               </div>
             </div>
