@@ -49,13 +49,8 @@ const Project = () => {
         <div className="col-md-6">
           <div className="card shadow-lg p-3 mb-5 bg-white rounded">
             <div className="card-body">
-              <h5 className="card-title"> Christine Laferrierre, RN </h5>
-              <p className="card-text"> Director of Marketing </p>
-              <p>
-                <a href="https://www.linkedin.com/in/christine-laferriere-aaa49088/">
-                  LinkedIn
-                </a>
-              </p>
+              <h5 className="card-title">Jose Alexandro</h5>
+              <p className="card-text"> Pandemic Advisor </p>
             </div>
           </div>
         </div>
@@ -74,7 +69,7 @@ const Project = () => {
           <div className="card shadow-lg p-3 mb-5 bg-white rounded">
             <div className="card-body">
               <h5 className="card-title"> Charles Enslin </h5>
-              <p className="card-text"> Practice Director </p>
+              <p className="card-text"> Cloud and Data Analytics Executive </p>
               <p>
                 <a href="https://www.linkedin.com/in/charles-enslin-ab90821/">
                   LinkedIn
@@ -249,19 +244,10 @@ const Project = () => {
                   <p className="card-text"> VP R&D </p>
                   <p className="card-text"> Advisor </p>
                   <p>
-                    <a href="https://www.linkedin.com/in/brian-kornfeld-mba-53613030/">
-                      LinkedIn
+                    <a href="https://internethalloffame.org/vint-cerf">
+                      Internet Hall of Fame
                     </a>
                   </p>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-6">
-              <div className="card shadow-lg p-3 mb-5 bg-white rounded">
-                <div className="card-body">
-                  <h5 className="card-title"> Karen Vaugn-Kerns </h5>
-                  <p className="card-text"> MSN, APRN, CNM, FNP-C </p>
-                  <p className="card-text"> Advisor </p>
                 </div>
               </div>
             </div>
